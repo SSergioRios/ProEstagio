@@ -16,11 +16,19 @@ _O firewall é usado para dividir uma rede segura (rede interna) de uma rede nã
 
 **3. Explique de forma sucinta, o fluxo e envio de um arquivo novo para o repositório do projeto.**
 
+_Primeiro se cria um repositório novo onde deverá ser salvo o arquivo á ser levantado, depois deverá inicializar o repositório criado, adicionar o caminho do repositório a ser enviado, commitar e enviar ao diretório remoto através de linha de comandos_
+
 **4. Descreva sobre os ganhos de se utilizar a funcionalidade da branch do git.**
+
+_Além de criar versões do mesmo arquivos onde vários desenvolvedores possam trabalhar ao mesmo tempo no mesmo trabalho em partes distintas possibilita também a unificação dos trabalhos desenvolvidos gerando entregas mais rápidas._
 
 **5. Explique a diferença entre criar o repositório na nuvem e iniciar o repositório apartir de um código existente local.**
 
+_A criação de um repositório local é simples primeiro deve-se abaixar o programa do git na maquina que será desenvolvido o projeto em seguida criar um diretório dedicado ao projeto criar o arquivo salvá-lo e iniciar as configurações do repositório através de linhas de comandos no terminal, já na nuvem primeiro deve-se se cadastrar no serviço escolhido prestado para o armazenamento remoto e usufruir dos benefícios já desenvolvido pelo prestador._
+
 **6. Qual a diferença entre Git e GitHub?**
+
+_O Git é uma ferramenta de auxilio no desenvolvimento do software em quanto o GitHub e um serviço de prestação de armazenamento de códigos em nuvem._
 
 
 ## Tema: Fundamentos de Agilidade: seus primeiros passos para a transformação ágil
