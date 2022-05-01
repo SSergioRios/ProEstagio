@@ -67,4 +67,10 @@ _Tem como objetivo de analisar todo o projeto para atribuir o fator de custo e t
 
 **11. O que é o protocolo HTTP? Qual a diferença entre HTTP e HTTPS?**
 
+_HTTP (significa protocolo de transferência de hipertexto)  muito usado para comunicação web  ele determina como será transmissão de servidor web e um navegador cliente é através desse protocolo que acessamos as paginas pelo navegador. A diferença entre o HTTP para o HTTPS e que o ultimo possui um fator de segurança na qual é mais segura do que o HTTP sua transmissão é criptografada._
+
 **12. Cite 4 métodos HTTP.**
+
+_GET, POST, DELETE, PUT._
+
+
