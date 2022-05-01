@@ -35,21 +35,32 @@ _O Git é uma ferramenta de auxilio no desenvolvimento do software em quanto o G
 
 **7. Quais as principais diferenças entre o modelo ágil e o waterfall (modelo emcascata)?**
 
+_As principais diferenças estão nas metodologias de trabalho em que a metodologia cascata e mais linear do que a ágil na qual é mais flexível e suas principais diferenças são, o primeiro diz que as interações entre os indivíduos são mais importantes que os processos e as ferramentas,o segundo diz que ter um software funcionando é mais importante do que uma documentação detalhada, o terceiro   diz que a colaboração do cliente é mais importante que a negociação de contrato, o quarto e último valor diz que responder às mudanças é mais importante do que seguir o plano._
+
 **8. Quais são as 3 perguntas que devem ser respondidas na Daily?**
+
+_O que foi realizado desde a última Daily ? , quais os problemas encontrados ? , o que pretende realizar até a próxima Daily ?_
 
 **9. Qual o intuito das seguintes cerimônias?**
 
 **• Daily**
+_→ São reuniões curtas, realizadas diariamente em 15 minutos, nas quais são feito três questionamentos básicos._
 
 **• Planning**
+_→  É o inicio do sprint onde é discutido o rumo do trabalho onde será delimitado as funções e metas e metas a serem concluídas geralmente limita-se a 5% do sprint._
 
 **• Refinamento**
+ _→ É a parte do processos em que é criado um entendimento compartilhado sobre o que o Produto fará e não fará, sobre o esforço necessário para implementá-lo, e a ordem na qual você fará isso._
 
 **• Review**
+ _→ É o momento no qual o cliente e o time de desenvolvimento se reúnem para mostrar os incrementos feitos na Sprint._
 
 **• Retrospectiva**
+_→ A reunião de retrospectiva é a mais importante, pois é por meio dela que é possível exprimir o que afinal é agilidade. Esta reunião fornece a possibilidade de melhoria contínua  para nos reinventarmos para uma próxima Sprint._
 
 **10. O que é a estimativa na metodologia ágil?**
+
+_Tem como objetivo de analisar todo o projeto para atribuir o fator de custo e tempo no backlog, isso ajuda a analisar a equipe para escolher as melhores decisões priorizar recursos e caminhos ideais_
 
 
 ## Tema: Fundamentos HTTP
